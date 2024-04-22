@@ -146,12 +146,6 @@ const Equipo: React.FC<EquipoProps> = ({ machineData }) => {
               </VStack>
             </Flex>
           </CardBody>
-
-          <CardFooter>
-            <Button variant="solid" colorScheme="blue">
-              Buy Latte
-            </Button>
-          </CardFooter>
         </Stack>
       </Card>
     );
